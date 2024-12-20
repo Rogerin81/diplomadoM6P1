@@ -1,5 +1,12 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div class="container mt-4">
+    <h1>About Us</h1>
+    <p>This is the about page of your Vue application.</p>
   </div>
 </template>
+
+<script>
+export default {
+  name: 'Practica',
+};
+</script>
